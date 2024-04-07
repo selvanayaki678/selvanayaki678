@@ -1,11 +1,13 @@
 ## Hi there 👋 It's me Selvanayaki P
-<h3 align="center">A passionate DevOps Engineer with over 3 years of experience in designing, implementing, and maintaining cloud infrastructure and automation solutions. <h3/>
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🌱 I’m currently learning: **RHCSA and RHCE certifications**
-- 👯 I’m looking to collaborate on: **DevOps/DevSecOps**
-- 💬 Ask me about: **Azure, terraform,Kubernetes, Azure Devops and Git**
-- 📫 How to reach me : **selvanayaki848@gmail.com**
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+
+<h3 align="center">A passionate DevOps Engineer with over 3 years of experience in designing, implementing, and maintaining cloud infrastructure and automation solutions. <h3/>
+  
+- 🌱 I’m currently learning: RHCSA and RHCE certifications
+- 👯 I’m looking to collaborate on: DevOps/DevSecOps
+- 💬 Ask me about: Azure, terraform,Kubernetes, Azure Devops and Git
+- 📫 How to reach me : selvanayaki848@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +21,7 @@
 - **Containerization:** <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 - **Container Orchestration:** <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
 - **Monitoring and Logging:** <img width="48" height="48" src="https://img.icons8.com/color/48/prometheus-app.png" alt="prometheus-app"/> <img width="48" height="48" src="https://img.icons8.com/color/48/grafana.png" alt="grafana"/>
-**CICD:** Azure Devops <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+- **CICD:** Azure Devops <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
 - **Scripting:** <img height="48" width="48" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/>
 
 
