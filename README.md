@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/selvanayaki-devops-engineeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selvanayaki-devops-engineeer" height="30" width="40" /></a>
 </p>
 
-### I specialied in 
+### I specializied in :
 - **Cloud Platforms:** <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 - **Version Control:** <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 - **Infrastructure as Code (IaC):** <img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ansible.png" alt="ansible"/>
