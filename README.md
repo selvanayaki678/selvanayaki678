@@ -2,11 +2,11 @@
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
-<h3 align="center">A passionate DevOps Engineer with over 3 years of experience in designing, implementing, and maintaining cloud infrastructure and automation solutions. <h3/>
+<h3 align="center">A passionate DevOps Engineer with over 4 years of experience in designing, implementing, and maintaining cloud infrastructure and automation solutions. <h3/>
   
-- 🌱 I’m currently learning: RHCSA and RHCE certifications
+- 🌱 I’m currently learning: github Actions
 - 👯 I’m looking to collaborate on: DevOps/DevSecOps
-- 💬 Ask me about: Azure, terraform,Kubernetes, Azure Devops and Git
+- 💬 Ask me about: Azure, AWS, terraform,Cloud Formation Kubernetes, Azure Devops,Jenkins, Github Actions and Git
 - 📫 How to reach me : selvanayaki848@gmail.com
 
 <h3 align="left">Connect with me:</h3>
