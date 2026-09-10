@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
-<h3 align="center">A passionate DevOps Engineer with over 4 years of experience in designing, implementing, and maintaining cloud infrastructure and automation solutions. <h3/>
+<h3 align="center">A passionate DevOps Engineer with over 5.5 years of experience in designing, implementing, and maintaining cloud infrastructure and automation solutions. <h3/>
   
 - 🌱 I’m currently learning: github Actions
 - 👯 I’m looking to collaborate on: DevOps/DevSecOps
